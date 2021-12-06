@@ -1,0 +1,11 @@
+/view/
+/model/
+/controller/
+/Connect4MoveMessage.class
+/Connect4Model.class
+/Connect4Controller.class
+/Connect4View$1.class
+/Connect4View.class
+/Connect4View$2.class
+/Connect4ControllerTest.class
+/Connect4Server.class
